@@ -101,7 +101,7 @@ analytics:
 author:
   name             : "Tien-Hao Phung"
   avatar           : "/assets/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "An AI Research Engineer who dedicates his time to studying and bringing AI into real-world."
   location         : "Ho Chi Minh, Viet Nam"
   email            :
   links:
@@ -110,7 +110,7 @@ author:
       url: "mailto:tienhaophung@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://tienhaophung.github.io/"
+      url: "https://tienhaophung.github.io/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/tienhaophung"
